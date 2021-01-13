@@ -21,7 +21,6 @@ public class MainActivity extends AppCompatActivity {
         TextView email = findViewById((R.id.email));
         email.setText("User's email");
 
-        //TODO: Push code to GitHub
 
     }
 
